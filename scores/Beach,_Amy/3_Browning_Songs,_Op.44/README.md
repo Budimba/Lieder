@@ -1,9 +1,18 @@
+# Ah, Love, but a Day!
 
-# 3 Browning Songs, Op.44
+__No.2 from [3 Browning Songs, Op.44](..) by [Amy Beach](../..)__
 
-__By [Amy Beach](..)__
+Transcribed and maintained by contributors to [OpenScore Lieder].
 
-Visit the [official set page] in [OpenScore Lieder].
+Please visit the [official score page] for more information.
 
-[official set page]: https://musescore.com/openscore-lieder-corpus/sets/5103537
+[official score page]: https://musescore.com/openscore-lieder-corpus/scores/23232
 [OpenScore Lieder]: https://musescore.com/openscore-lieder-corpus
+
+## External links
+
+- [MuseScore] - view and listen to [this score][MuseScore], or download in a variety of formats.
+- [IMSLP] - view the [source PDF file(s)][IMSLP] that this score was transcribed from.
+
+[MuseScore]: https://musescore.com/score/23232
+[IMSLP]: https://imslp.org/wiki/Special:ReverseLookup/75959
