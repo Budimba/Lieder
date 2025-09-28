@@ -6,7 +6,7 @@ Transcribed and maintained by contributors to [OpenScore Lieder].
 
 Please visit the [official score page] for more information.
 
-[official score page]: https://musescore.com/openscore-lieder-corpus/scores/34343
+[official score page]: https://musescore.com/openscore-lieder-corpus/scores/23456
 [OpenScore Lieder]: https://musescore.com/openscore-lieder-corpus
 
 ## External links
@@ -14,5 +14,5 @@ Please visit the [official score page] for more information.
 - [MuseScore] - view and listen to [this score][MuseScore], or download in a variety of formats.
 - [IMSLP] - view the [source PDF file(s)][IMSLP] that this score was transcribed from.
 
-[MuseScore]: https://musescore.com/score/34343
+[MuseScore]: https://musescore.com/score/23456
 [IMSLP]: https://imslp.org/wiki/Special:ReverseLookup/75959
